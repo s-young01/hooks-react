@@ -1,0 +1,8 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+li {list-style: none;}
+body {
+    font-family: '나눔고딕', '맑은고딕', sans-serif;
+    font-size: 36px;
+    line-height: 1.5;
+    background-color: aliceblue;
+}
